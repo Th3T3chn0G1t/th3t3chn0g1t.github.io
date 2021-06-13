@@ -7,7 +7,7 @@ They all start with G for some reason
 #### Glean
 My text editor in GTK
 
-[Development Updates](glean)
+[Development Updates](glean-dev)
 
 [Respository](https://github.com/Th3T3chn0G1t/glean)
 
